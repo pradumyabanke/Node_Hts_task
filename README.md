@@ -1,10 +1,17 @@
 
-db:
+------start the application:
+---------npm i ---------------
+--------npm start ---------------------
+
+
+
+
+----db:
       mongodb+srv://pradumgurjar2:hzHZJSIvI9uySByr@cluster0.xqolutu.mongodb.net/
 
 
 
-localhost:5000/createUser
+**localhost:5000/createUser**
 
 {
     "first_name": "pradumya",
@@ -14,7 +21,7 @@ localhost:5000/createUser
 }
 
 
-localhost:5000/adminLogin
+**localhost:5000/adminLogin**
 
 
 {
